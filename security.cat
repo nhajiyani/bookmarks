@@ -14,3 +14,4 @@ http://www.mugo.ca/Blog/It-s-time-to-secure-your-website-Chrome-enforces-deadlin
 https://www.tbs-certificates.co.uk/FAQ/en/outils-scan-ssl-tls.html	ssl-resources, How to check for ssl
 https://chrome.google.com/webstore/detail/csp-mitigator/gijlobangojajlbodabkpjpheeeokhfa	extension	xss	google-tool Chrome extension for checking on XSS for a site
 https://csp-evaluator.withgoogle.com/	xss	google-tool	csp	Evaluating CSP XSS policies tool by Google
+https://xss-game.appspot.com/	xss	game	A game for education purposes
